@@ -1,0 +1,2 @@
+重定向标准输出测试
+com.fk.fk3.PushbackTest@7aec35a
