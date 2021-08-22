@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9427fc9d-cd7b-470e-a2e2-ff7d622b8186" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\ProgramFiles\JetBrains\IntelliJ IDEA 2020.2.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wzV44yIdKOz0iQB4St9VbTfyNX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../jar/junit-4.10.jar" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.26293105" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.test.p10" />
+      <recent name="com.test.p9" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ThreadTest.test1">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTest.test1 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="多线程" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.p9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.p9" />
+      <option name="MAIN_CLASS_NAME" value="com.test.p9.ThreadTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTest.test1 (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="多线程" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.p10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.p10" />
+      <option name="MAIN_CLASS_NAME" value="com.test.p10.ThreadTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTest.test1 (5)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="多线程" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test2.p1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test2.p1" />
+      <option name="MAIN_CLASS_NAME" value="com.test2.p1.ThreadTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="多线程" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test2.p2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test2.p2" />
+      <option name="MAIN_CLASS_NAME" value="com.test2.p2.ThreadTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="多线程" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test2.p1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test2.p1" />
+      <option name="MAIN_CLASS_NAME" value="com.test2.p1.ThreadTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ThreadTest.test1 (2)" />
+      <item itemvalue="JUnit.ThreadTest.test1 (4)" />
+      <item itemvalue="JUnit.ThreadTest.test1 (5)" />
+      <item itemvalue="JUnit.ThreadTest.test2" />
+      <item itemvalue="JUnit.ThreadTest.test1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ThreadTest.test1" />
+        <item itemvalue="JUnit.ThreadTest.test2" />
+        <item itemvalue="JUnit.ThreadTest.test1 (5)" />
+        <item itemvalue="JUnit.ThreadTest.test1 (4)" />
+        <item itemvalue="JUnit.ThreadTest.test1 (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9427fc9d-cd7b-470e-a2e2-ff7d622b8186" name="Default Changelist" comment="" />
+      <created>1629461211515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629461211515</updated>
+      <workItem from="1629461212735" duration="4470000" />
+      <workItem from="1629497559937" duration="18477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="106" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629504888353">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="106" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1304.768@0.0.1304.768" timestamp="1629504888353" />
+    <state x="457" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1629534938011">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="457" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1304.768@0.0.1304.768" timestamp="1629534938011" />
+    <state x="326" y="124" key="FileChooserDialogImpl" timestamp="1629461306244">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="326" y="124" key="FileChooserDialogImpl/0.0.1304.768@0.0.1304.768" timestamp="1629461306244" />
+    <state width="1261" height="360" key="GridCell.Tab.0.bottom" timestamp="1629553023062">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="360" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1629553023062" />
+    <state width="1261" height="360" key="GridCell.Tab.0.center" timestamp="1629553023062">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="360" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1629553023062" />
+    <state width="1261" height="360" key="GridCell.Tab.0.left" timestamp="1629553023062">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="360" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1629553023062" />
+    <state width="1261" height="360" key="GridCell.Tab.0.right" timestamp="1629553023062">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="360" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1629553023062" />
+    <state width="1261" height="310" key="GridCell.Tab.1.bottom" timestamp="1629553023052">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="310" key="GridCell.Tab.1.bottom/0.0.1304.768@0.0.1304.768" timestamp="1629553023052" />
+    <state width="1261" height="310" key="GridCell.Tab.1.center" timestamp="1629553023052">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="310" key="GridCell.Tab.1.center/0.0.1304.768@0.0.1304.768" timestamp="1629553023052" />
+    <state width="1261" height="310" key="GridCell.Tab.1.left" timestamp="1629553023052">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="310" key="GridCell.Tab.1.left/0.0.1304.768@0.0.1304.768" timestamp="1629553023052" />
+    <state width="1261" height="310" key="GridCell.Tab.1.right" timestamp="1629553023052">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="310" key="GridCell.Tab.1.right/0.0.1304.768@0.0.1304.768" timestamp="1629553023052" />
+    <state x="132" y="0" key="SettingsEditor" timestamp="1629461309564">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="132" y="0" key="SettingsEditor/0.0.1304.768@0.0.1304.768" timestamp="1629461309564" />
+    <state x="191" y="119" width="921" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1629534012373">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="191" y="119" width="921" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1304.768@0.0.1304.768" timestamp="1629534012373" />
+    <state x="382" y="143" key="extract.method.dialog" timestamp="1629534067513">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="382" y="143" key="extract.method.dialog/0.0.1304.768@0.0.1304.768" timestamp="1629534067513" />
+    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1629535943215">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1304.768@0.0.1304.768" timestamp="1629535943215" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

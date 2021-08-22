@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b07cb2e2-c83f-4951-a561-4119bcada086" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\ProgramFiles\JetBrains\IntelliJ IDEA 2020.2.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wLXPYcl9kezNBWVxksFXTGQdwd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../jar/junit-4.10.jar" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.26293105" />
+  </component>
+  <component name="RunManager" selected="JUnit.ListTest.test3">
+    <configuration name="ListTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="List集合" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fkit.fk1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fkit.fk1" />
+      <option name="MAIN_CLASS_NAME" value="com.fkit.fk1.ListTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="List集合" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fkit.fk1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fkit.fk1" />
+      <option name="MAIN_CLASS_NAME" value="com.fkit.fk1.ListTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="List集合" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fkit.fk1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fkit.fk1" />
+      <option name="MAIN_CLASS_NAME" value="com.fkit.fk1.ListTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ListTest.test3" />
+        <item itemvalue="JUnit.ListTest.test2" />
+        <item itemvalue="JUnit.ListTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b07cb2e2-c83f-4951-a561-4119bcada086" name="Default Changelist" comment="" />
+      <created>1628238820024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628238820024</updated>
+      <workItem from="1628238822055" duration="6685000" />
+      <workItem from="1629461006400" duration="202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="326" y="124" key="FileChooserDialogImpl" timestamp="1628238841982">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="326" y="124" key="FileChooserDialogImpl/0.0.1304.768@0.0.1304.768" timestamp="1628238841982" />
+    <state width="1261" height="289" key="GridCell.Tab.0.bottom" timestamp="1628258419623">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="289" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1628258419623" />
+    <state width="1261" height="289" key="GridCell.Tab.0.center" timestamp="1628258419623">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="289" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1628258419623" />
+    <state width="1261" height="289" key="GridCell.Tab.0.left" timestamp="1628258419623">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="289" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1628258419623" />
+    <state width="1261" height="289" key="GridCell.Tab.0.right" timestamp="1628258419623">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="289" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1628258419623" />
+    <state x="132" y="0" key="SettingsEditor" timestamp="1628238844578">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="132" y="0" key="SettingsEditor/0.0.1304.768@0.0.1304.768" timestamp="1628238844578" />
+    <state x="26" y="0" key="new project wizard" timestamp="1629461208439">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="26" y="0" key="new project wizard/0.0.1304.768@0.0.1304.768" timestamp="1629461208439" />
+  </component>
+</project>
