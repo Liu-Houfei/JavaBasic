@@ -63,114 +63,112 @@
       <recent name="com.test.p9" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ThreadTest.test1">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ThreadTest2.test2">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest.test1 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ThreadTest2.t1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="多线程" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.p9.*" />
+          <option name="PATTERN" value="com.test4.p8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.p9" />
-      <option name="MAIN_CLASS_NAME" value="com.test.p9.ThreadTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="com.test4.p8" />
+      <option name="MAIN_CLASS_NAME" value="com.test4.p8.ThreadTest2" />
+      <option name="METHOD_NAME" value="t1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest.test1 (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ThreadTest2.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="多线程" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.p10.*" />
+          <option name="PATTERN" value="com.test4.p8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.p10" />
-      <option name="MAIN_CLASS_NAME" value="com.test.p10.ThreadTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadTest.test1 (5)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="多线程" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test2.p1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test2.p1" />
-      <option name="MAIN_CLASS_NAME" value="com.test2.p1.ThreadTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="多线程" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test2.p2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test2.p2" />
-      <option name="MAIN_CLASS_NAME" value="com.test2.p2.ThreadTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="多线程" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test2.p1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test2.p1" />
-      <option name="MAIN_CLASS_NAME" value="com.test2.p1.ThreadTest" />
+      <option name="PACKAGE_NAME" value="com.test4.p8" />
+      <option name="MAIN_CLASS_NAME" value="com.test4.p8.ThreadTest2" />
       <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadTest.t1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="多线程" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test4.p9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test4.p9" />
+      <option name="MAIN_CLASS_NAME" value="com.test4.p9.ThreadTest" />
+      <option name="METHOD_NAME" value="t1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTest.t1 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="多线程" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test4.p10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test4.p10" />
+      <option name="MAIN_CLASS_NAME" value="com.test4.p10.ThreadTest" />
+      <option name="METHOD_NAME" value="t1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTest.t4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="多线程" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test4.p8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test4.p8" />
+      <option name="MAIN_CLASS_NAME" value="com.test4.p8.ThreadTest" />
+      <option name="METHOD_NAME" value="t4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.ThreadTest.test1 (2)" />
-      <item itemvalue="JUnit.ThreadTest.test1 (4)" />
-      <item itemvalue="JUnit.ThreadTest.test1 (5)" />
-      <item itemvalue="JUnit.ThreadTest.test2" />
-      <item itemvalue="JUnit.ThreadTest.test1" />
+      <item itemvalue="JUnit.ThreadTest.t4" />
+      <item itemvalue="JUnit.ThreadTest.t1 (1)" />
+      <item itemvalue="JUnit.ThreadTest.t1 (2)" />
+      <item itemvalue="JUnit.ThreadTest2.t1" />
+      <item itemvalue="JUnit.ThreadTest2.test2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ThreadTest.test1" />
-        <item itemvalue="JUnit.ThreadTest.test2" />
-        <item itemvalue="JUnit.ThreadTest.test1 (5)" />
-        <item itemvalue="JUnit.ThreadTest.test1 (4)" />
-        <item itemvalue="JUnit.ThreadTest.test1 (2)" />
+        <item itemvalue="JUnit.ThreadTest2.test2" />
+        <item itemvalue="JUnit.ThreadTest2.t1" />
+        <item itemvalue="JUnit.ThreadTest.t1 (2)" />
+        <item itemvalue="JUnit.ThreadTest.t1 (1)" />
+        <item itemvalue="JUnit.ThreadTest.t4" />
       </list>
     </recent_temporary>
   </component>
@@ -184,6 +182,12 @@
       <updated>1629461211515</updated>
       <workItem from="1629461212735" duration="4470000" />
       <workItem from="1629497559937" duration="18477000" />
+      <workItem from="1629594564581" duration="1796000" />
+      <workItem from="1629617615024" duration="3859000" />
+      <workItem from="1629698793385" duration="8290000" />
+      <workItem from="1629774442923" duration="13391000" />
+      <workItem from="1629842825931" duration="1381000" />
+      <workItem from="1630150578885" duration="10853000" />
     </task>
     <servers />
   </component>
@@ -218,50 +222,54 @@
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="106" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1304.768@0.0.1304.768" timestamp="1629504888353" />
-    <state x="457" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1629534938011">
+    <state x="457" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1630156901417">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="457" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1304.768@0.0.1304.768" timestamp="1629534938011" />
+    <state x="457" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1304.768@0.0.1304.768" timestamp="1630156901417" />
     <state x="326" y="124" key="FileChooserDialogImpl" timestamp="1629461306244">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="326" y="124" key="FileChooserDialogImpl/0.0.1304.768@0.0.1304.768" timestamp="1629461306244" />
-    <state width="1261" height="360" key="GridCell.Tab.0.bottom" timestamp="1629553023062">
+    <state width="1261" height="494" key="GridCell.Tab.0.bottom" timestamp="1630161849683">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1261" height="360" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1629553023062" />
-    <state width="1261" height="360" key="GridCell.Tab.0.center" timestamp="1629553023062">
+    <state width="1261" height="494" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1630161849683" />
+    <state width="1261" height="494" key="GridCell.Tab.0.center" timestamp="1630161849682">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1261" height="360" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1629553023062" />
-    <state width="1261" height="360" key="GridCell.Tab.0.left" timestamp="1629553023062">
+    <state width="1261" height="494" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1630161849682" />
+    <state width="1261" height="494" key="GridCell.Tab.0.left" timestamp="1630161849682">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1261" height="360" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1629553023062" />
-    <state width="1261" height="360" key="GridCell.Tab.0.right" timestamp="1629553023062">
+    <state width="1261" height="494" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1630161849682" />
+    <state width="1261" height="494" key="GridCell.Tab.0.right" timestamp="1630161849682">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1261" height="360" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1629553023062" />
-    <state width="1261" height="310" key="GridCell.Tab.1.bottom" timestamp="1629553023052">
+    <state width="1261" height="494" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1630161849682" />
+    <state width="1261" height="494" key="GridCell.Tab.1.bottom" timestamp="1630161849683">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1261" height="310" key="GridCell.Tab.1.bottom/0.0.1304.768@0.0.1304.768" timestamp="1629553023052" />
-    <state width="1261" height="310" key="GridCell.Tab.1.center" timestamp="1629553023052">
+    <state width="1261" height="494" key="GridCell.Tab.1.bottom/0.0.1304.768@0.0.1304.768" timestamp="1630161849683" />
+    <state width="1261" height="494" key="GridCell.Tab.1.center" timestamp="1630161849683">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1261" height="310" key="GridCell.Tab.1.center/0.0.1304.768@0.0.1304.768" timestamp="1629553023052" />
-    <state width="1261" height="310" key="GridCell.Tab.1.left" timestamp="1629553023052">
+    <state width="1261" height="494" key="GridCell.Tab.1.center/0.0.1304.768@0.0.1304.768" timestamp="1630161849683" />
+    <state width="1261" height="494" key="GridCell.Tab.1.left" timestamp="1630161849683">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1261" height="310" key="GridCell.Tab.1.left/0.0.1304.768@0.0.1304.768" timestamp="1629553023052" />
-    <state width="1261" height="310" key="GridCell.Tab.1.right" timestamp="1629553023052">
+    <state width="1261" height="494" key="GridCell.Tab.1.left/0.0.1304.768@0.0.1304.768" timestamp="1630161849683" />
+    <state width="1261" height="494" key="GridCell.Tab.1.right" timestamp="1630161849683">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1261" height="310" key="GridCell.Tab.1.right/0.0.1304.768@0.0.1304.768" timestamp="1629553023052" />
+    <state width="1261" height="494" key="GridCell.Tab.1.right/0.0.1304.768@0.0.1304.768" timestamp="1630161849683" />
     <state x="132" y="0" key="SettingsEditor" timestamp="1629461309564">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="132" y="0" key="SettingsEditor/0.0.1304.768@0.0.1304.768" timestamp="1629461309564" />
+    <state x="455" y="296" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1629620465194">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="455" y="296" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1304.768@0.0.1304.768" timestamp="1629620465194" />
     <state x="191" y="119" width="921" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1629534012373">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
@@ -270,10 +278,10 @@
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="382" y="143" key="extract.method.dialog/0.0.1304.768@0.0.1304.768" timestamp="1629534067513" />
-    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1629535943215">
+    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1630160857567">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1304.768@0.0.1304.768" timestamp="1629535943215" />
+    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1304.768@0.0.1304.768" timestamp="1630160857567" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
